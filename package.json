@@ -1,0 +1,21 @@
+{
+  "name": "Serverhtml",
+  "version": "0.0.0",
+  "description": "Servidor basico html",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JustCodes/NodejsBasics.git"
+  },
+  "author": "Fernando Derkoski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustCodes/NodejsBasics/issues"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
